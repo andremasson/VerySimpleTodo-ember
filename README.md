@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # very-simple-todo-ember
 
-Aplicação simple de TODO feita em Ember.js e Firebase.
+Aplicação simples de TODO feita em Ember.js e Firebase.
 
 ## Prerequisites
 
