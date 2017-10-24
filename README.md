@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # very-simple-todo-ember
 
 This README outlines the details of collaborating on this Ember application.
@@ -49,3 +50,6 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+=======
+# VerySimpleTodo-ember
+>>>>>>> 705822890ed1d6c78f1a8b05a7d0264321e10ec0
