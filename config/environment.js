@@ -7,6 +7,14 @@ module.exports = function(environment) {
     environment,
     rootURL: '/',
     locationType: 'auto',
+    firebase: {
+      apiKey: "AIzaSyBSQLx7uqlKgyRDF81nBnKHcYLJtsLdlyo",
+      authDomain: "verysimpletodo-8f063.firebaseapp.com",
+      databaseURL: "https://verysimpletodo-8f063.firebaseio.com",
+      projectId: "verysimpletodo-8f063",
+      storageBucket: "verysimpletodo-8f063.appspot.com",
+      messagingSenderId: "466523419839"
+    },
     EmberENV: {
       FEATURES: {
         // Here you can enable experimental features on an ember canary build

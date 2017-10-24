@@ -1,0 +1,20 @@
+{
+  "todos" : {
+    "task001" : {
+      "done" : false,
+      "task" : "Programar Ember"
+    },
+    "task002" : {
+      "done" : true,
+      "task" : "Alimentar os gatos"
+    },
+    "task003" : {
+      "done" : false,
+      "task" : "Jogar video game"
+    },
+    "task004" : {
+      "done" : false,
+      "task" : "Beber café"
+    }
+  }
+}
